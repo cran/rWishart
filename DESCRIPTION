@@ -1,12 +1,12 @@
 Package: rWishart
 Title: Random Wishart Matrix Generation
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Ben", "Barnard", 
                     email = "ben_barnard@outlook.com", 
                     role = c("aut", "cre")),
              person("Dean", "Young", 
                     role = c("aut")))
-Maintainer: Ben Barnard <ben_barnard@outlook.com>
+Maintainer: ORPHANED
 Description: An expansion of R's 'stats' random wishart matrix generation. 
   This package allows the user to generate singular, Uhlig and Harald (1994) 
   <doi:10.1214/aos/1176325375>, and pseudo wishart, Diaz-Garcia, et al.(1997) 
@@ -23,8 +23,11 @@ RoxygenNote: 6.0.1
 Suggests: covr, knitr, rmarkdown, testthat
 URL: https://rwishart.bearstatistics.com
 NeedsCompilation: no
-Packaged: 2017-11-09 02:45:22 UTC; ben_barnard
+Packaged: 2018-09-09 08:52:59 UTC; ripley
 Author: Ben Barnard [aut, cre],
   Dean Young [aut]
 Repository: CRAN
-Date/Publication: 2017-11-09 10:11:36 UTC
+Date/Publication: 2018-09-09 08:57:13 UTC
+X-CRAN-Original-Maintainer: Ben Barnard <ben_barnard@outlook.com>
+X-CRAN-Comment: Orphaed on 2018-09-09 as there was no response to
+        requests to repair an intermittent test error.

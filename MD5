@@ -1,4 +1,4 @@
-88602cf0c16bd4a8e3a29cf5b5213b3f *DESCRIPTION
+586caa0e0a850fbc9ba4a3dfd66027d5 *DESCRIPTION
 b043dd56c4d70b6f2a9c38b4ec6702e9 *NAMESPACE
 7a28aeb51ad381d060d632cfbde337e8 *R/rFractionalWishart.R
 03a20c228f960784595772e0c705b458 *R/rNonsingularWishart.R
@@ -18,7 +18,7 @@ c58333c357dd0b1944cf429830982381 *man/rPsuedoWishart.Rd
 97b3fc3192a8951014126ace68ceb909 *man/rWishart.Rd
 d60176230d40fb77b7d41c2f73dec902 *man/wishartTest.Rd
 368f95d7384278cc3451f61d2b57f76e *tests/testthat.R
-f821fdbad512bd6d98d5871945611e3f *tests/testthat/test_rFractionalWishart.R
+9637ba562341094155f128661ff64b70 *tests/testthat/test_rFractionalWishart.R
 4165a4e626fa023a1d6088ea9d0cc633 *tests/testthat/test_rNonsingularWishart.R
 d4f1fc16a9d5d3c58f03825073768f6d *tests/testthat/test_rPsuedoWishart.R
 362c058aa938b0f12a226d236e82afe8 *tests/testthat/test_rSingularWishart.R
