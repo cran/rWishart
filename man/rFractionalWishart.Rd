@@ -4,7 +4,8 @@
 \alias{rFractionalWishart}
 \title{Random Fractional Wishart Matrix}
 \usage{
-rFractionalWishart(n, df, Sigma, covariance = FALSE, simplify = "array")
+rFractionalWishart(n, df, Sigma, covariance = FALSE,
+  simplify = "array")
 }
 \arguments{
 \item{n}{integer: the number of replications.}
@@ -39,5 +40,6 @@ the distribution of M = X'X is W_p(Sigma, m).
 rFractionalWishart(2, 22.5, diag(1, 20))
 }
 \references{
-Adhikari, S. (2008). Wishart random matrices in probabilistic structural mechanics. Journal of engineering mechanics, 134(12), doi:10.1061/(ASCE)0733-9399(2008)134:12(1029).
+Adhikari, S. (2008). Wishart random matrices in probabilistic structural mechanics. 
+Journal of engineering mechanics, 134(12), \doi{10.1061/(ASCE)0733-9399(2008)134:12(1029)}.
 }

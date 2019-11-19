@@ -2,7 +2,8 @@
 #' 
 #' Generate \code{n} random matrices, distributed according to the Wishart distribution with parameters \code{Sigma} and \code{df}, W_p(Sigma, df).
 #'
-#' @references Adhikari, S. (2008). Wishart random matrices in probabilistic structural mechanics. Journal of engineering mechanics, 134(12), doi:10.1061/(ASCE)0733-9399(2008)134:12(1029).
+#' @references Adhikari, S. (2008). Wishart random matrices in probabilistic structural mechanics. 
+#' Journal of engineering mechanics, 134(12), \doi{10.1061/(ASCE)0733-9399(2008)134:12(1029)}.
 #'
 #' @inherit rWishart
 #' @export

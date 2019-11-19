@@ -4,7 +4,8 @@
 \alias{rNonsingularWishart}
 \title{Random Nonsingular Wishart Matrix}
 \usage{
-rNonsingularWishart(n, df, Sigma, covariance = FALSE, simplify = "array")
+rNonsingularWishart(n, df, Sigma, covariance = FALSE,
+  simplify = "array")
 }
 \arguments{
 \item{n}{integer: the number of replications.}

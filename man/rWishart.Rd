@@ -4,7 +4,6 @@
 \name{rWishart}
 \alias{rWishart}
 \alias{rWishart-package}
-\alias{rWishart}
 \title{Random Wishart Matrix Generation}
 \usage{
 rWishart(n, df, Sigma, covariance = FALSE, simplify = "array")
